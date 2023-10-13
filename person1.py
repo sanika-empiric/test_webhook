@@ -7,4 +7,5 @@ class Person:
         return f"Employee: {self.name}, ID: {self.employee_id}"
 
 a = Person('sanika','005')
+a = Person('sanika','005')
 print("display: ", a.display())
