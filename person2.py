@@ -7,7 +7,8 @@ class Person:
         return f"Customer: {self.name}, ID: {self.customer_id}"
 
 a = Person('sanika1','006')
-a = Person('sanika2','007')
-a = Person('sanika3','008')
-a = Person('sanika4','009')
+b = Person('sanika2','007')
+c = Person('sanika3','008')
+d = Person('sanika4','009')
+e = Person('sanika5','0010')
 print("display: ", a.display())
