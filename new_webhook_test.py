@@ -1,1 +1,0 @@
-print("Sanika S. Bhosale")
